@@ -1,4 +1,4 @@
-# Hi there, I'm Aryan Naryan Thakur! 👋
+# Hi there, I'm Aryan Narayan Thakur! 👋
 
 ### 🎓 About Me
 * **Branch:** B.Tech Engineering 
