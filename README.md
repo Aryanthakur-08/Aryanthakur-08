@@ -1,7 +1,7 @@
 # Hi there, I'm Aryan Narayan Thakur! 👋
 
 ### 🎓 About Me
-* **Branch:** B.Tech Engineering 
+* **Branch:** B.Tech in Computer Science and Engineering (Artificial Intelligence and Machine Learning)
 * **Year:** First Year (Batch of 2025) 
 * **Institution:** VIT Bhopal University 
 
